@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section>
+    <section id="1">
+        <section id="query1">
+            <property id="subtitle">CREATE TABLE user_details_table ( "id" VARCHAR,
+                "email" VARCHAR,
+                "formno" VARCHAR,
+                "mobileno" VARCHAR,
+                "fname" VARCHAR,
+                "lname" VARCHAR,
+                "gender" VARCHAR,
+                "dob" VARCHAR,
+                "address" VARCHAR
+                )</property>
+        </section>
+            </section>
+  </section>
